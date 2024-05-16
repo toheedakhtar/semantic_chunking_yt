@@ -1,0 +1,7 @@
+pytube
+moviepy
+transformers
+accelerate
+git+https://github.com/huggingface/transformers.git
+dataset[audio]
+torch

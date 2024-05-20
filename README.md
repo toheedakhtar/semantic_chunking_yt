@@ -1,4 +1,9 @@
 # semantic_chunking_yt
-extract meaningful segments from youtube video
+extract meaningful segments from youtube video (url)
 
-is a challenge for sarvamai job posting. 
+## Install requirements
+`pip install -r requirements.txt`
+
+## Launch Gradio app
+`python app.py`
+
